@@ -6,7 +6,7 @@
  -- ``Set-ExecutionPolicy RemoteSigned ``
 
 #### Install
-  - `` ``
+  - ``git clone https://github.com/mrafalsk1/templates.git``
  - `` npm install -g ``
 #### Usage
  - Open CMD/PowerShell and execute:
